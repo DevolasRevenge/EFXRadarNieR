@@ -1,1 +1,3 @@
 place grojdg's dat repacker in this folder so the script may use it.
+
+https://github.com/xxk-i/DATrepacker
